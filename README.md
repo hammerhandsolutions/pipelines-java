@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/HammerHandSolutions/Cloud%20Computing/_apis/build/status/hammerhandsolutions.pipelines-java?branchName=master)](https://dev.azure.com/HammerHandSolutions/Cloud%20Computing/_build/latest?definitionId=15&branchName=master)
 [![Build Status](https://dev.azure.com/HammerHandSolutions/HammerHand%20Expansion/_apis/build/status/hammerhandsolutions.pipelines-java?branchName=master)](https://dev.azure.com/HammerHandSolutions/HammerHand%20Expansion/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
